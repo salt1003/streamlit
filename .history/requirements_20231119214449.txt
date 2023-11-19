@@ -1,0 +1,10 @@
+azure.cognitiveservices.vision.computervision
+msrest
+array
+from PIL import Image
+from PIL import ImageDraw
+from PIL import ImageFont
+import sys
+import time
+import json
+import streamlit as st
